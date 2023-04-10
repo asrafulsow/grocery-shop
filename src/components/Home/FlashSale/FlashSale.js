@@ -35,7 +35,7 @@ const FlashSale = () => {
     useEffect(() => {
         fetch('/product.JSON')
             .then(res => res.json())
-            .then(data => console.log(data))
+            .then(data => console.log(data[0]))
     }, [])
 
     return (
