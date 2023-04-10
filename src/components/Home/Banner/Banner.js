@@ -32,14 +32,14 @@ const Banner = () => {
                             <div className='rounded-full p-[10px] bg-slate-300 mr-3'>
                                 <FcFlashOn className='w-full h-[20px]' />
                             </div>
-                            <span>Top Offers</span>
+                            <span>Baking Materials</span>
                         </Link>
                         {/* single catagory */}
                         <Link to="/shop" className='flex items-center'>
                             <div className='rounded-full p-[10px] bg-slate-300 mr-3'>
                                 <FcOrgUnit className='w-full h-[20px]' />
                             </div>
-                            <span>Games & Accessoris</span>
+                            <span>Bread and Juice</span>
                         </Link>
                         <li></li>
                         {/* single catagory */}
@@ -47,35 +47,35 @@ const Banner = () => {
                             <div className='rounded-full p-[10px] bg-slate-300 mr-3'>
                                 <FcMultipleSmartphones className='w-full h-[20px]' />
                             </div>
-                            <span> Phone & Tablet</span>
+                            <span> Fresh Seafood</span>
                         </Link>
                         {/* single catagory */}
                         <Link to="/shop" className='flex items-center'>
                             <div className='rounded-full p-[10px] bg-slate-300 mr-3'>
                                 <FcMultipleDevices className='w-full h-[20px]' />
                             </div>
-                            <span>Computer & Laptop</span>
+                            <span>Milks and Dairies</span>
                         </Link>
                         {/* single catagory */}
                         <Link to="/shop" className='flex items-center'>
                             <div className='rounded-full p-[10px] bg-slate-300 mr-3'>
                                 <FcSelfie className='w-full h-[20px]' />
                             </div>
-                            <span>Jewlery & Beauty</span>
+                            <span>Vegetibles</span>
                         </Link>
                         {/* single catagory */}
                         <Link to="/shop" className='flex items-center'>
                             <div className='rounded-full p-[10px] bg-slate-300 mr-3'>
                                 <FcShop className='w-full h-[20px]' />
                             </div>
-                            <span>Fashion</span>
+                            <span>Deals the Day</span>
                         </Link>
                         {/* single catagory */}
                         <Link to="/shop" className='flex items-center'>
                             <div className='rounded-full p-[10px] bg-slate-300 mr-3'>
                                 <FcWebcam className='w-full h-[20px]' />
                             </div>
-                            <span>Web & Camera</span>
+                            <span>Clothing & Beauty</span>
                         </Link>
                     </div>
                     {/* banner category area */}
@@ -104,10 +104,10 @@ const Banner = () => {
                         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
 
                             <div>
-                                <p className='md:text-5xl text-2xl font-bold my-4'>NEW <span className='text-blue-700'>MOBILE</span></p>
-                                <p className='md:text-5xl text-2xl font-bold my-4'>12MP <span className='font-normal'>F/2.3</span></p>
-                                <p className='md:text-5xl text-2xl font-bold'>8K <span className='font-normal'>VIDEO</span></p>
-                                <Link to="/shop"><button className="btn md:btn-wide bg-primary-all my-9">Shop Now</button></Link>
+                                <p className='md:text-5xl text-2xl font-bold my-4'>NEW <span className='text-green-600'>ORGANIC</span></p>
+                                <p className='md:text-5xl text-2xl font-bold my-4'><span className='font-normal'>FRESH</span></p>
+                                <p className='md:text-5xl text-2xl font-bold'><span className='font-normal'>VEGITABLE</span></p>
+                                <Link to="/shop"><button className="btn md:btn-wide bg-green-600 my-9">Shop Now</button></Link>
                             </div>
                             <img className='box-border md:h-[80%] h-20% w-1/2' src={banner1} alt="" />
                         </div>
@@ -117,10 +117,10 @@ const Banner = () => {
                         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
 
                             <div>
-                                <p className='md:text-5xl text-2xl font-bold my-4'>NEW <span className='text-blue-700'>LAPTOP</span></p>
-                                <p className='md:text-5xl text-2xl font-bold my-4'>12MP <span className='font-normal'>F/2.3</span></p>
-                                <p className='md:text-5xl text-2xl font-bold'>12K <span className='font-normal'>VIDEO</span></p>
-                                <Link to="/shop"><button className="btn md:btn-wide bg-primary-all my-9">Shop Now</button></Link>
+                                <p className='md:text-5xl text-2xl font-bold my-4'>NEW <span className='text-green-600'>100%</span></p>
+                                <p className='md:text-5xl text-2xl font-bold my-4'><span className='font-normal'>NATURAL</span></p>
+                                <p className='md:text-5xl text-2xl font-bold'><span className='font-normal'>FRUITS</span></p>
+                                <Link to="/shop"><button className="btn md:btn-wide bg-green-600 my-9">Shop Now</button></Link>
                             </div>
                             <img className='box-border md:h-[80%] h-20% w-1/2' src={banner2} alt="" />
                         </div>
@@ -130,10 +130,10 @@ const Banner = () => {
                         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
 
                             <div>
-                                <p className='md:text-5xl text-2xl font-bold my-4 '>NEW <span className='text-blue-700'>CAMERA</span></p>
-                                <p className='md:text-5xl text-2xl font-bold my-4'>12MP <span className='font-normal'>F/2.3</span></p>
-                                <p className='md:text-5xl text-2xl font-bold'>8K <span className='font-normal'>VIDEO</span></p>
-                                <Link to="/shop"><button className="btn md:btn-wide bg-primary-all my-9">Shop Now</button></Link>
+                                <p className='md:text-5xl text-2xl font-bold my-4 '>BEST <span className='text-green-600'>IN QUALITY</span></p>
+                                <p className='md:text-5xl text-2xl font-bold my-4'><span className='font-normal'>FRESH</span></p>
+                                <p className='md:text-5xl text-2xl font-bold'>8K <span className='font-normal'>GROCERY</span></p>
+                                <Link to="/shop"><button className="btn md:btn-wide bg-green-600 my-9">Shop Now</button></Link>
                             </div>
                             <img className='box-border md:h-[80%] h-20% w-1/2' src={banner3} alt="" />
                         </div>

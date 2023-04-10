@@ -1,0 +1,47 @@
+[
+    {
+        "image": "https://ibb.co/tKvK7dK",
+        "price": 10,
+        "category": "chips",
+        "rating": 4.5,
+        "quantity": 10,
+        "name": "Masala Potato Chips",
+        "description": "This is a very famous masla potato chips.Every one buy this product a its a very running product"
+    },
+    {
+        "image": "https://ibb.co/tKvK7dK",
+        "price": 70,
+        "category": "fruits",
+        "rating": 4.5,
+        "quantity": 10,
+        "name": "Frozen Fruit Starawbary,barries",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    },
+    {
+        "image": "https://ibb.co/WBNM6XD",
+        "price": 40,
+        "category": "fruits",
+        "rating": 4.5,
+        "quantity": 10,
+        "name": "Seeds Of Change Organic Red Rice",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    },
+    {
+        "image": "https://ibb.co/3pvBskx",
+        "price": 70,
+        "category": "fruits",
+        "rating": 4.5,
+        "quantity": 10,
+        "name": "Blue Olmend lighty Vagitables",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    },
+    {
+        "image": "https://ibb.co/WtYpkgd",
+        "price": 50,
+        "category": "fruits",
+        "rating": 4.5,
+        "quantity": 10,
+        "name": "Foster Firm Crispy Classic",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    }
+]
