@@ -33,7 +33,7 @@ const FlashSale = () => {
     const [products, setProduct] = useState([])
 
     useEffect(() => {
-        fetch('./product.JSON')
+        fetch('/product.JSON')
             .then(res => res.json())
             .then(data => console.log(data))
     }, [])
