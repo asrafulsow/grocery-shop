@@ -56,7 +56,7 @@ const FlashSale = () => {
                 {/* single Flash Product */}
                 <div className="single_Flash_Prouct-area">
                     <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
-                        <span>this is the veregD</span>
+
                     </div>
                 </div>
             </div>
